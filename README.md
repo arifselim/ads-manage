@@ -6,4 +6,4 @@ This will make, rule and manage my advertisement placements and dates.
 
 for more will come
 
-https://www.oppoturkiye.org
+[Oppo Türkiye](https://www.oppoturkiye.org)
